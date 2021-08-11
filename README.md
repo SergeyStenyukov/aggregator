@@ -1,4 +1,4 @@
-# Simple taxi aggregator 
+# aggregator 
 (Spring Boot, Spring Data, Swagger, H2)
 
 endpoints http://localhost:8080/swagger-ui/
